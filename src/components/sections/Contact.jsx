@@ -12,7 +12,7 @@ const ENQUIRY_TYPES = [
   { value: "feedback", label: "⭐ Feedback / Review" },
 ];
 
-const WHATSAPP_NUMBER = "917358755490";
+const WHATSAPP_NUMBER = "919940435699";
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
